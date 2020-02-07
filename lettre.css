@@ -1,0 +1,47 @@
+main{
+    margin: 40px auto;
+    border: 2px black;
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    box-shadow: 5px 10px 50px grey;
+    padding: 30px;
+    width: 800px;
+    background-color: white;
+    
+    
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #eee7e7;
+}
+h1{ font-size: 1.5em;
+    text-align: center;
+}
+.droite1{
+   float:  right;
+}
+#droite2{
+    text-align: right;
+ }
+
+.objet{
+    text-decoration: underline;
+    margin-left: 50px;
+}
+h2{
+    font-size:1.2em ;
+    
+}
+p{
+    font-size: 1.3em;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;
+
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
